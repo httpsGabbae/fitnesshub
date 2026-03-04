@@ -25,7 +25,7 @@ $stmt->close();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Member Dashboard - Gym Fitness Hub</title>
-    <link rel="stylesheet" href="style.css"> <!-- Links to your shared styles.css -->
+    <link rel="stylesheet" href="css/style.css"> <!-- Links to your shared styles.css -->
 </head>
 
 <body>
@@ -52,6 +52,8 @@ $stmt->close();
                 <li><a href="#nutrition">Nutrition Plan</a></li>
                 <li><a href="#progress">Progress Tracker</a></li>
                 <li><a href="#profile">Profile Settings</a></li>
+                <li><a href="#profile">Find Trainer</a></li>
+
             </ul>
         </aside>
 

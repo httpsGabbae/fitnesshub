@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Dashboard - Gym Fitness Hub</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -27,6 +27,7 @@
         <aside class="sidebar">
             <h3>Menu</h3>
             <ul>
+                <li><a href="add_client.php">Add client</a></li>
                 <li><a href="#overview">Overview</a></li>
                 <li><a href="#users">User Management</a></li>
                 <li><a href="#workouts">Workout Plans</a></li>
