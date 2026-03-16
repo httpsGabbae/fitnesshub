@@ -26,6 +26,7 @@ $stmt->close();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Member Dashboard - Gym Fitness Hub</title>
     <link rel="stylesheet" href="css/style.css"> <!-- Links to your shared styles.css -->
+    <link rel="stylesheet" href="css/dashboard.css">
 </head>
 
 <body>
@@ -33,7 +34,7 @@ $stmt->close();
         <nav>
             <div class="logo">
                 <a href="landingpage.php">
-                    <img src="img/logo.jpg" alt="Gym Fitness Hub Logo"></a>
+                    <img src="logo/logo.png" alt="Gym Fitness Hub Logo"></a>
                 <span>Gym Fitness Hub - Member</span>
             </div>
             <ul>

@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Dashboard - Gym Fitness Hub</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/dashboard.css">
 </head>
 
 <body>
@@ -13,8 +14,8 @@
         <nav>
             <div class="logo">
                 <a href="landingpage.php">
-                    <img src="img/logo.jpg" alt="Gym Fitness Hub Logo"></a>
-                <span>Gym Fitness Hub - Member</span>
+                    <img src="logo/logo.png" alt="Gym Fitness Hub Logo"></a>
+                <span>Gym Fitness Hub - Admin</span>
             </div>
             <ul>
                 <li><a href="landingpage.php">Back to Site</a></li>
